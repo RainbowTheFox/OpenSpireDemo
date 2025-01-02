@@ -53,8 +53,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Achievements",
+    "path": "folders/Sprites/Other/Achievements.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

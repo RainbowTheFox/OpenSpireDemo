@@ -55,8 +55,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "chocofrog",
+    "path": "folders/Sprites/Enemies/chocofrog.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

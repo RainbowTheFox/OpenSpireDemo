@@ -78,8 +78,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Fudgetop",
+    "path": "folders/Sprites/Levels/Unused/Fudgetop.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

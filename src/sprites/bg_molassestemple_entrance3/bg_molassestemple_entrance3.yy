@@ -84,8 +84,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Background",
+    "path": "folders/Sprites/Levels/Molasses Swamp/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

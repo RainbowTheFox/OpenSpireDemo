@@ -62,8 +62,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "betonbacon",
+    "path": "folders/Sprites/Enemies/Unused/betonbacon.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

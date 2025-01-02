@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Sound Test",
+    "path": "folders/Sprites/Levels/Sound Test.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

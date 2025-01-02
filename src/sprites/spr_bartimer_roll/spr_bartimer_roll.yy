@@ -68,8 +68,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Escape",
+    "path": "folders/Sprites/Other/Escape.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

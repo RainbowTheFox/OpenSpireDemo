@@ -56,8 +56,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "badmarsh",
+    "path": "folders/Sprites/Enemies/Unused/badmarsh.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

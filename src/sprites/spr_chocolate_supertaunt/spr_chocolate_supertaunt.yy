@@ -57,8 +57,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Chocolate",
+    "path": "folders/Sprites/Confetti/Chocolate.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

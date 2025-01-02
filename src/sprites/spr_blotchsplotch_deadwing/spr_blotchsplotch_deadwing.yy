@@ -49,8 +49,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "blotchsplotch",
+    "path": "folders/Sprites/Enemies/blotchsplotch.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

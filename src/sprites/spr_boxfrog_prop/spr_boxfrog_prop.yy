@@ -59,8 +59,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Box Frog",
+    "path": "folders/Sprites/Enemies/Box Frog.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

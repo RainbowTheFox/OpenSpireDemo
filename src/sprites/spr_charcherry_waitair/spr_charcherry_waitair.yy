@@ -55,8 +55,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "charcherry",
+    "path": "folders/Sprites/Enemies/charcherry.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -56,8 +56,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Check Point",
+    "path": "folders/Sprites/Objects/Check Point.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

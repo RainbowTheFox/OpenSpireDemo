@@ -61,8 +61,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Baddie Spawner",
+    "path": "folders/Sprites/Enemies/Baddie Spawner.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
