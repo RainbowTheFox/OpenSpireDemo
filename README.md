@@ -3,8 +3,8 @@ A decompilation of Sugary Spire Exhibition Night v1.2.
 I'm not affiliated with Big Gnome Studios in any way.
 
 # Requirements
-Sugary Spire Exhibition Night (for datafiles)
-GameMaker v2023.11 (not sure if it will compile in other versions)
+[Sugary Spire Exhibition Night](https://en-painter.itch.io/sugary-spire-exhibition-night) (for datafiles)\
+[GameMaker v2023.11](https://gms.yoyogames.com/GameMaker-Installer-2023.11.1.129.exe) (not sure if it will compile in other versions)
 
 # Compiling it
 When opened, import the following extensions:
