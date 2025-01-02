@@ -11,6 +11,7 @@ When opened, import the following extensions:
 - [FMODGMS](https://github.com/YoYoGames/GMEXT-FMOD/releases/)
 - [Scribble](https://github.com/JujuAdams/scribble/releases/)
 - [Gameframe](https://yellowafterlife.itch.io/gamemaker-gameframe) (not required)
+Also import the data (lang, sound, gamedata)
 
 If you have Gameframe and imported it, go to obj_screen and flip GAMEFRAME macro to on.
 
