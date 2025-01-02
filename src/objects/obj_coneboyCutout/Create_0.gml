@@ -1,0 +1,11 @@
+event_inherited();
+baddieSpriteIdle = spr_coneboy;
+baddieSpriteWalk = spr_coneboy;
+baddieSpriteStun = spr_coneboy;
+baddieSpriteScared = spr_coneboy;
+baddieSpriteTurn = undefined;
+baddieSpriteHit = undefined;
+baddieSpriteDead = spr_coneboy;
+defaultMovespeed = 0;
+canSpawnStunBird = false;
+canGetScared = false;

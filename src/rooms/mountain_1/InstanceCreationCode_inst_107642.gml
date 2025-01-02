@@ -1,0 +1,2 @@
+firstenemy = false;
+escapeEnemy = true;

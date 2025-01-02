@@ -1,0 +1,1 @@
+debrisSprite = spr_towndebris;

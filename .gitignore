@@ -1,0 +1,13 @@
+# Ignore extensions.
+src/extensions/FMOD/*
+src/scripts/ExtBufferIO/*
+src/scripts/Fmod_*
+
+# Scribble stuff
+src/scripts/__scribble_*
+src/scripts/scribble_*
+src/scripts/*_scribble
+
+# Ignore data
+src/datafiles/*
+src/*.resource_order
