@@ -8,7 +8,7 @@ I'm not affiliated with Big Gnome Studios in any way.
 
 # Compiling it
 When opened, import the following extensions:
-- [FMODGMS](https://github.com/YoYoGames/GMEXT-FMOD/releases/)
+- [FMODext](https://github.com/YoYoGames/GMEXT-FMOD/releases/)
 - [Scribble](https://github.com/JujuAdams/scribble/releases/)
 - [Gameframe](https://yellowafterlife.itch.io/gamemaker-gameframe) (not required)
 
