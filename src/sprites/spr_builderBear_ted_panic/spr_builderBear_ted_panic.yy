@@ -51,7 +51,7 @@
   "origin": 0,
   "parent": {
     "name": "Crunchy Construction",
-    "path": "folders/Sprites/Levels/Crunchy Construction.yy",
+    "path": "folders/Sprites/Level Assets/Crunchy Construction.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

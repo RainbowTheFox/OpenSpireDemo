@@ -62,8 +62,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "gummyworm",
+    "path": "folders/Sprites/Confetti/gummyworm.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

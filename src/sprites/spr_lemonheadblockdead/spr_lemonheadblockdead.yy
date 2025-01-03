@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "lemonheadblock",
+    "path": "folders/Sprites/Level Assets/Objects/lemonheadblock.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

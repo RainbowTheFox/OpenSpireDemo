@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "cottonmaker",
+    "path": "folders/Sprites/Level Assets/Objects/cottonmaker.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

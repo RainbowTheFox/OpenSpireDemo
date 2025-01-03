@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Background",
-    "path": "folders/Sprites/Levels/Secret Area/Background.yy",
+    "path": "folders/Sprites/Level Assets/Secret Area/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

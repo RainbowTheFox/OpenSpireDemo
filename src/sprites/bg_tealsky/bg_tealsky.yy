@@ -51,7 +51,7 @@
   "origin": 0,
   "parent": {
     "name": "Ungrouped",
-    "path": "folders/Sprites/Levels/Ungrouped.yy",
+    "path": "folders/Sprites/Level Assets/Ungrouped.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -62,8 +62,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Confetti",
+    "path": "folders/Sprites/Confetti.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

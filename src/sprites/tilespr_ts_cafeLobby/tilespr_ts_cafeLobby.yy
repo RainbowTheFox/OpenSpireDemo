@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Tile Sprites",
-    "path": "folders/Sprites/Levels/Unused/Cafe/Tile Sprites.yy",
+    "path": "folders/Sprites/Level Assets/Unused/Cafe/Tile Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

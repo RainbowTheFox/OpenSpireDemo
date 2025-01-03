@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Harry",
+    "path": "folders/Sprites/Enemies/Harry.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

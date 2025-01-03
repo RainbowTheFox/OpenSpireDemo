@@ -49,8 +49,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Sugarshack Mines",
+    "path": "folders/Sprites/Level Assets/Sugarshack Mines.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

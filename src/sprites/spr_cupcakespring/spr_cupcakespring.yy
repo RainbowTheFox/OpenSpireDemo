@@ -54,8 +54,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cupcake Spring",
+    "path": "folders/Sprites/Level Assets/Objects/Cupcake Spring.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -52,8 +52,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "fridge",
+    "path": "folders/Sprites/Enemies/Unused/fridge.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

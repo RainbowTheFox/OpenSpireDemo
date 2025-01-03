@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Titlecards",
-    "path": "folders/Sprites/Other/Titlecards.yy",
+    "name": "Unused",
+    "path": "folders/Sprites/Other/Titlecards/Unused.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

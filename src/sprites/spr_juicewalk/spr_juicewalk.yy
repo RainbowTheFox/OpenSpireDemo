@@ -56,8 +56,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "juice",
+    "path": "folders/Sprites/Enemies/juice.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

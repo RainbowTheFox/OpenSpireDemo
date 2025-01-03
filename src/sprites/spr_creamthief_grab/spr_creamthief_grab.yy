@@ -78,8 +78,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "creamthief",
+    "path": "folders/Sprites/Enemies/creamthief.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Gumslime",
+    "path": "folders/Sprites/Enemies/Gumslime.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

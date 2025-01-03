@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Fling Frog",
+    "path": "folders/Sprites/Level Assets/Objects/Fling Frog.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

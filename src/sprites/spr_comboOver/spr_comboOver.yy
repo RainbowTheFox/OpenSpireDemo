@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Combo Meter",
+    "path": "folders/Sprites/Other/Combo Meter.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

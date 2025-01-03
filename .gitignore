@@ -10,4 +10,3 @@ src/scripts/*_scribble
 
 # Ignore data
 src/datafiles/*
-src/*.resource_order

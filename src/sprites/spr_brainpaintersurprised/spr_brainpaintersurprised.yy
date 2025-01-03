@@ -50,7 +50,7 @@
   "origin": 0,
   "parent": {
     "name": "Painter Brain",
-    "path": "folders/Sprites/Levels/Painter Brain.yy",
+    "path": "folders/Sprites/Level Assets/Painter Brain.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

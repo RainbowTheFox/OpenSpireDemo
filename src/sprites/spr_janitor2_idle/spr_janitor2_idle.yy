@@ -66,8 +66,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "janitor2",
+    "path": "folders/Sprites/Level Assets/Objects/janitor2.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Tutorial",
-    "path": "folders/Sprites/Levels/Tutorial.yy",
+    "name": "Background",
+    "path": "folders/Sprites/Level Assets/Tutorial/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "lilfrogdude",
+    "path": "folders/Sprites/Level Assets/Objects/lilfrogdude.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

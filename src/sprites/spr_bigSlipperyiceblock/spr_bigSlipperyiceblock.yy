@@ -79,7 +79,7 @@
   "origin": 0,
   "parent": {
     "name": "Fudgetop",
-    "path": "folders/Sprites/Levels/Unused/Fudgetop.yy",
+    "path": "folders/Sprites/Level Assets/Unused/Fudgetop.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

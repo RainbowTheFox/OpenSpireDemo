@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Level Gate Background",
+    "path": "folders/Sprites/Other/Level Gate Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

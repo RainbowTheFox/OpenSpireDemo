@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Background",
-    "path": "folders/Sprites/Levels/Painter Brain/Background.yy",
+    "path": "folders/Sprites/Level Assets/Painter Brain/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

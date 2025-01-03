@@ -52,7 +52,7 @@
   "origin": 0,
   "parent": {
     "name": "Background",
-    "path": "folders/Sprites/Levels/Other/Background.yy",
+    "path": "folders/Sprites/Level Assets/Other/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

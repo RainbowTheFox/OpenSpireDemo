@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Unused",
+    "path": "folders/Sprites/Level Assets/Hub/Unused.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

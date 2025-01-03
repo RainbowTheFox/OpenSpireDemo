@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Background",
-    "path": "folders/Sprites/Levels/Crunchy Construction/Background.yy",
+    "path": "folders/Sprites/Level Assets/Crunchy Construction/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

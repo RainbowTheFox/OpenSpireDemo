@@ -51,7 +51,7 @@
   "origin": 0,
   "parent": {
     "name": "Background",
-    "path": "folders/Sprites/Levels/Unused/Fudgetop/Background.yy",
+    "path": "folders/Sprites/Level Assets/Unused/Fudgetop/Background.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -52,8 +52,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "eyescreamsandwich",
+    "path": "folders/Sprites/Enemies/eyescreamsandwich.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

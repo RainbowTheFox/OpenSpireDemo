@@ -53,8 +53,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Decoration",
+    "path": "folders/Sprites/Level Assets/Decoration.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

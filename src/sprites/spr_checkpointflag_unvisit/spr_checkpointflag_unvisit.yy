@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Check Point",
-    "path": "folders/Sprites/Objects/Check Point.yy",
+    "path": "folders/Sprites/Level Assets/Objects/Check Point.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

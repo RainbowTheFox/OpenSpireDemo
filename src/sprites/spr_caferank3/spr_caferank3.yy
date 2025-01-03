@@ -50,7 +50,7 @@
   "origin": 0,
   "parent": {
     "name": "Other",
-    "path": "folders/Sprites/Levels/Unused/Cafe/Other.yy",
+    "path": "folders/Sprites/Level Assets/Unused/Cafe/Other.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

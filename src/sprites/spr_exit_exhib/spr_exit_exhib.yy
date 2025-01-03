@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Save Select",
+    "path": "folders/Sprites/Other/Save Select.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

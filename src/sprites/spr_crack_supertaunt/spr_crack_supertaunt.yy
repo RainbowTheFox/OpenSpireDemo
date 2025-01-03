@@ -57,8 +57,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "crack",
+    "path": "folders/Sprites/Confetti/crack.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

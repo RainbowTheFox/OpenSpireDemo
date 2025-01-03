@@ -72,7 +72,7 @@
   "origin": 0,
   "parent": {
     "name": "Molasses Swamp",
-    "path": "folders/Sprites/Levels/Molasses Swamp.yy",
+    "path": "folders/Sprites/Level Assets/Molasses Swamp.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -49,7 +49,7 @@
   "origin": 0,
   "parent": {
     "name": "Cottontown",
-    "path": "folders/Sprites/Levels/Cottontown.yy",
+    "path": "folders/Sprites/Level Assets/Cottontown.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -64,8 +64,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "crackerkicker",
+    "path": "folders/Sprites/Enemies/crackerkicker.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

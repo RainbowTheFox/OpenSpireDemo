@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Lap 2 Portal",
+    "path": "folders/Sprites/Level Assets/Objects/Lap 2 Portal.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

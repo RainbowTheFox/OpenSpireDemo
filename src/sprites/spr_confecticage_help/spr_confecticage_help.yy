@@ -84,8 +84,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Confetti Cage",
+    "path": "folders/Sprites/Confetti/Confetti Cage.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
