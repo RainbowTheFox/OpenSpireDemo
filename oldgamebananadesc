@@ -1,0 +1,15 @@
+A Sugary Spire Exhibition Night Demo v1.2 Decomp.
+
+== GUIDE ON USING IT ==
+
+Download the decomp and open it in GameMaker
+
+import the required extensions (FMODext, NekoPresence and Scribble, Gameframe is optional)
+
+(if Gameframe is present, flip GAMEFRAME macro to true)
+
+add the datafiles (langs, fmod banks etc) and compile, it should compile successfully.
+
+Any decomp bugs or questions etc comment down below.
+
+Enjoy modding the demo!
