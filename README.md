@@ -1,3 +1,6 @@
+# IT'S CANCELED!!!
+Don't use this, unless you are desesperate for a decomp or smth like that.
+
 # OpenSpire Demo
 A decompilation of Sugary Spire Exhibition Night v1.2.\
 I'm not affiliated with Big Gnome Studios in any way.
